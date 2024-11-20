@@ -1,0 +1,21 @@
+[    
+    {
+    "id": "1",
+    "title": "The Liberal radical transition to Wokeness",
+    "image": "assets/img/woke-graphic.jpg",
+    "content": "<p class='p-large mb-4 pb-2'></p>"
+    },
+    {
+        "id": "3",
+        "title": "DEI",
+        "image": "assets/img/work/branding.png",
+		"content": "<p class='p-large mb-4 pb-2'><a href='assets/img/6-unsettling-facts-about-DEI-in-K-12.pdf' target='_blank'>6 unsettling facts about DEI in K-12</a></p>"
+    },
+    {
+        "id": "2",
+        "title": "Optimization Experiments",
+        "content": "<p class='p-large mb-4 pb-2'>Are the graphics working? Is the copy being understood? How likely is the user able to understand and complete what they want to complete on your website/app? These questions get answered through user testing.</p><p>User Testing activities I can consult on are:</p><ul><li>Conversion Experiment Suggestions*</li><li>Ideation Workshops</li><li>Testing Strategy</li></ul>",
+        "image": "assets/img/work/collab.jpg"
+    }
+]
+
